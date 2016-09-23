@@ -6,3 +6,6 @@
 * Trash Bags Powerup
 * Dad Jazz
 * Oh! The Yeah
+* Style File
+* Lintin Park
+* Bread Necklace
